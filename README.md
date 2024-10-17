@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://github.com/tloyan/frontendmentor-social-links-profile)
-- Live Site URL: [live site](https://social-links-profile.tloyan.com)
+- Solution URL: [https://github.com/tloyan/frontendmentor-social-links-profile](https://github.com/tloyan/frontendmentor-social-links-profile)
+- Live Site URL: [https://social-links-profile.tloyan.com](https://social-links-profile.tloyan.com)
 
 
 ## My process
