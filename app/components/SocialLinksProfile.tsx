@@ -54,7 +54,7 @@ export function SocialLinksProfile({
       <p className="mt-1 text-sm font-bold text-green">
         {city}, {country}
       </p>
-      <p className="mt-6 text-sm">"{description}"</p>
+      <p className="mt-6 text-sm">&quot;{description}&quot;</p>
       <div className="mt-6 flex w-full flex-col gap-y-4">
         <SocialButton url={socials_url.github}>GitHub</SocialButton>
         <SocialButton url={socials_url.frontendmentor}>
