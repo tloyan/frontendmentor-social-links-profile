@@ -1,3 +1,14 @@
 @tailwind base;
+
+@layer base {
+  body {
+    @apply text-white;
+  }
+}
+
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: var(--font-inter), sans-serif;
+}
